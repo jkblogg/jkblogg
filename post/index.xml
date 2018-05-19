@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 美國遊記</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on 美國遊記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Sat, 19 May 2018 10:06:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇文章</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Sat, 19 May 2018 10:06:28 +0800</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>我打算開始寫部落格了。
+在這庸庸碌碌的世界裡，有太多的話想說、有太多的事想做、有太多的想法想分享。 可惜每個人一天都只有24小時，大家都在向前走，自己也不例外。
+那何處放這些話呢？
+那就
+說給自己聽吧</description>
+    </item>
+    
+  </channel>
+</rss>
